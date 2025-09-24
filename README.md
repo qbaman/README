@@ -31,11 +31,17 @@
   </a>
 </p>
 
-## snake
+## snake 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qbaman/qbaman/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qbaman/qbaman/output/snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/qbaman/qbaman/output/snake.svg" />
-</picture>
+<p align="center">
+  <picture>
+    <!-- Dark mode -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qbaman/qbaman/output/snake-dark.svg" />
+    <!-- Light mode -->
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qbaman/qbaman/output/snake.svg" />
+    <!-- Default / fallback -->
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/qbaman/qbaman/output/snake.svg" style="max-width: 100%; height: auto;"/>
+  </picture>
+</p>
+
 
