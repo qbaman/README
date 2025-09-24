@@ -11,9 +11,7 @@
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=qbaman&theme=darcula&hide_border=true&background=FFFFFF00">
 </p>
 
----
-
-## 🛠️ skills  
+## skills  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" />
@@ -22,9 +20,7 @@
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" />
 </p>
 
----
-
-## 🔗 links  
+## links  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/qb.aman/" target="blank">
@@ -35,9 +31,7 @@
   </a>
 </p>
 
----
-
-## 🐍 activity  
+## snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qbaman/qbaman/output/snake-dark.svg" />
