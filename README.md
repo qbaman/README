@@ -39,6 +39,9 @@
 
 ## 🐍 activity  
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/qbaman/qbaman/output/snake.svg" alt="Snake animation"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qbaman/qbaman/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qbaman/qbaman/output/snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/qbaman/qbaman/output/snake.svg" />
+</picture>
+
